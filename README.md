@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/azuh412/projeto-dio/blob/main/ebook%20dio.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/azuh412/projeto-dio/blob/main/ebook%20miss%C3%A3o%20fitness.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
